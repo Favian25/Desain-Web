@@ -1,0 +1,28 @@
+/* Variable */
+body {
+  background-color: rgba(0, 0, 0, 0.8);
+}
+
+nav ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+nav li {
+  display: inline-block;
+}
+nav a {
+  display: block;
+  padding: 6px 12px;
+  text-decoration: none;
+  color: #ffffff;
+}
+
+section h1 {
+  text-align: center;
+  color: #ffffff;
+}
+section h3 {
+  text-align: justify;
+  color: #00b3ff;
+}/*# sourceMappingURL=style.css.map */

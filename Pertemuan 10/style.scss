@@ -1,0 +1,35 @@
+/* Variable */
+$MyColor: #ffffff;
+$MyColor2: #00b3ff;
+
+body {
+    background-color: rgba(0, 0, 0, 0.8);
+}
+
+nav {
+    ul {
+      margin: 0;
+      padding: 0;
+      list-style: none;
+    }
+    li {
+      display: inline-block;
+    }
+    a {
+      display: block;
+      padding: 6px 12px;
+      text-decoration: none;
+      color: $MyColor;
+    }
+  }
+
+section {
+    h1 {
+        text-align: center;
+        color: $MyColor;
+    }
+    h3 {
+        text-align: justify;
+        color: $MyColor2;
+    }
+}
